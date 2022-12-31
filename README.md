@@ -1,5 +1,7 @@
 Harsha Rauniyar
 
+Research Analysis
+
 1. 
 Program input: python neuralnet.py monks1.csv 2 0.1 0.5 2250 0.5 
 
