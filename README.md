@@ -31,7 +31,7 @@ A line chart observing this trend is attached.
 
 b) The accuracy for the test set became greater as the number of neurons in the hidden layer was increased. As we can see when there were 2 hidden neurons the accuracy was 0.825 but the accuracy gradually increases as the number of neurons is increased to 20. The accuracy is at 0.925 at 20 hidden neurons, and it does not change when the accuracy is at 50.
 
-We think this behavior occurs because increasing the number of neurons lets the network learn more underlying patterns to predict correctly. For example, for the mnist_5v8.csv dataset, increasing the number of neurons may allow the network to learn the smaller shapes that give rise to the number 5 and 8. Learning the build up of the shape of the numbers will allow the network to predict correctly.
+I think this behavior occurs because increasing the number of neurons lets the network learn more underlying patterns to predict correctly. For example, for the mnist_5v8.csv dataset, increasing the number of neurons may allow the network to learn the smaller shapes that give rise to the number 5 and 8. Learning the build up of the shape of the numbers will allow the network to predict correctly.
 
 3.
 a) uploaded to github
