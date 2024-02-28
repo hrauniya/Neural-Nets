@@ -1,6 +1,6 @@
 """
-@author:Harsha Rauniyar
-implementing the neural network algorithm
+@author:Harsha Rauniyar & Austin Alcancia
+implementing a single layer neural network algorithm
 """
 
 from enum import unique
